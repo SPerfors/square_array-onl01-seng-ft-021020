@@ -1,5 +1,5 @@
 def square_array(array)
   array.each do |x|
-    Math.exp(2)
+    array << Math.exp(2)
   end
 end
