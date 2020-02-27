@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each do |array.exp(2)|
+  array.each do |Math.exp(2)|
 end
